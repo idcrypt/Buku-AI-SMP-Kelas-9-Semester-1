@@ -1,5 +1,5 @@
-# BUKU AI SD/MI Kelas 5 Semester 1: Belajar Logika, Coding Visual, Literasi Digital, dan AI
-Aolia Ikhwanudin
+# Buku AI SMP Kelas 9 Semester 1 Proyek Keren dengan AI: Bikin Aplikasi Sendiri Mulai dari Ide Sampai Jadi!
+Devi Fatwanti
 Onno W. Purbo
 Institut Teknologi Tangerang Selatan (ITTS)
 2025
